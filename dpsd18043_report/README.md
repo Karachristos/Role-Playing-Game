@@ -3,7 +3,7 @@
 ### First and Last Name: Νικόλας Καραχρήστος	
 ### University Registration Number: dpsd18043
 ### GitHub Personal Profile: https://github.com/Karachristos
-### Digital & Serious Games Personal Repository: https://github.com/Karachristos?tab=repositories
+### Digital & Serious Games Personal Repository: https://karachristos.github.io/Role-Playing-Game/
 
 # Introduction
 
