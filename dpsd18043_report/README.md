@@ -39,3 +39,5 @@ https://learn.unity.com/project/ruby-s-2d-rpg
 
 # Sources
 Ruby's adventure unity course:https://learn.unity.com/project/ruby-s-2d-rpg
+Assets που χρησιμοποιήθηκαν: https://game-endeavor.itch.io/mystic-woods (χαρακτήρας)
+                             https://anokolisa.itch.io/crawler-dungeon-prison (χάρτης)
