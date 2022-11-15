@@ -37,7 +37,7 @@ Aντικατάσταση της Ruby με κατάλληλο για το plot p
 
 Χάρτης:
 
-![Map_prwtou_paradoteou](https://user-images.githubusercontent.com/117390085/201998289-8504712c-098d-4356-b94d-804cbc1b981f.PNG)
+![Map_prwtou_paradoteou](https://user-images.githubusercontent.com/117390085/202004835-0b1cd3f7-e13b-40c4-bbb4-fa46b7e80bd8.PNG)
 
 Χαρακτήρας:
 
