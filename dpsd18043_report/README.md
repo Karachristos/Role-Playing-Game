@@ -57,6 +57,11 @@ Aντικατάσταση της Ruby με κατάλληλο για το plot p
  ![1η πίστα](https://user-images.githubusercontent.com/117390085/207917856-d11b4944-9a8c-433e-a497-21c8a3e8174a.PNG)
  ![1η πίστα_2](https://user-images.githubusercontent.com/117390085/207917893-3590986f-d633-4ff0-ae80-41c2e5138ee2.PNG)
  ![1η πιστα_3](https://user-images.githubusercontent.com/117390085/207917903-1b72ea02-d9e1-463f-b677-8d2c5c0f94df.PNG)
+ 
+ Στη συνέχεια, αφού έδωσα στον ήρωα πόντους ζωής, δημιούργησα coolectible potions τα οποία εκείνος μπορεί να πάρει μονάχα αν οι πόντοι ζωής του δεν είναι γεμάτοι.
+ Τα potions αναπληρώνουν 1 πόντο ζωής το καθένα και είναι διασκορπιζμένα στο χάρτη με μερικά από αυτά να είναι δύσκολα αποκτήσιμα.
+ 
+![healthpot](https://user-images.githubusercontent.com/117390085/207926673-2ad6a514-42b9-4e5e-9286-0bb66e0c4782.PNG)
 
 
 # 3rd Deliverable 
