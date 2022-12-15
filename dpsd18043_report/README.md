@@ -48,9 +48,19 @@ Aντικατάσταση της Ruby με κατάλληλο για το plot p
 ![κωδικας](https://user-images.githubusercontent.com/117390085/201998691-1f23b24b-24e1-4300-84b4-d2b9ff1b4b77.PNG)
 
 # 2nd Deliverable
+ 
+ Για το 2ο παραδοτέο εμπλούτισα τη πρώτη πίστα του παιχνιδιού και πρόσθεσα διάφορα props μαζί με τους απαραίτητους colliders έτσι ώστε η πίστα να
+ θυμίζει και να μοιάζει περισσότερο με ένα μπουντρούμι.
+ 
+ Η πρώτη πίστα τώρα
+ 
+ ![1η πίστα](https://user-images.githubusercontent.com/117390085/207917856-d11b4944-9a8c-433e-a497-21c8a3e8174a.PNG)
+ ![1η πίστα_2](https://user-images.githubusercontent.com/117390085/207917893-3590986f-d633-4ff0-ae80-41c2e5138ee2.PNG)
+ ![1η πιστα_3](https://user-images.githubusercontent.com/117390085/207917903-1b72ea02-d9e1-463f-b677-8d2c5c0f94df.PNG)
 
 
 # 3rd Deliverable 
+
 
 
 # Conclusions
