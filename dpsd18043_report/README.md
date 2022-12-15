@@ -148,9 +148,11 @@ Projectile
 # Sources
 -Ruby's adventure unity course: https://learn.unity.com/project/ruby-s-2d-rpg 
 
--Assets που χρησιμοποιήθηκαν: https://game-endeavor.itch.io/mystic-woods (χαρακτήρας) 
+-Assets που χρησιμοποιήθηκαν: 
+https://game-endeavor.itch.io/mystic-woods (χαρακτήρας) 
 
--https://anokolisa.itch.io/crawler-dungeon-prison (χάρτης)
+https://anokolisa.itch.io/crawler-dungeon-prison (χάρτης)
 
-https://elthen.itch.io/2d-pixel-art-ratfolk-mage-sprites
-https://elthen.itch.io/2d-pixel-art-ratfolk-axe-sprites (εχθροί))
+https://elthen.itch.io/2d-pixel-art-ratfolk-mage-sprites (εχθρός)
+
+https://elthen.itch.io/2d-pixel-art-ratfolk-axe-sprites (εχθρός)
