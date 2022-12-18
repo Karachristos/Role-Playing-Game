@@ -52,16 +52,17 @@ Aντικατάσταση της Ruby με κατάλληλο για το plot p
  Για το 2ο παραδοτέο εμπλούτισα τη πρώτη πίστα του παιχνιδιού και πρόσθεσα διάφορα props μαζί με τους απαραίτητους colliders έτσι ώστε η πίστα να μοιάζει περισσότερο με ένα μπουντρούμι.
  
  
- ![1η πίστα](https://user-images.githubusercontent.com/117390085/207917856-d11b4944-9a8c-433e-a497-21c8a3e8174a.PNG)
- ![1η πίστα_2](https://user-images.githubusercontent.com/117390085/207917893-3590986f-d633-4ff0-ae80-41c2e5138ee2.PNG)
- ![1η πιστα_3](https://user-images.githubusercontent.com/117390085/207917903-1b72ea02-d9e1-463f-b677-8d2c5c0f94df.PNG)
+ ![1η πίστα](https://user-images.githubusercontent.com/117390085/208307679-e6b5746d-ff8c-4ca1-97e6-e8b2459dc8fa.PNG)
+![1η πίστα_2](https://user-images.githubusercontent.com/117390085/208307683-2cb57f24-dc13-43c2-a3c0-136b7f807e30.PNG)
+![1η πιστα_3](https://user-images.githubusercontent.com/117390085/208307684-464da7c0-d347-46b8-a446-f7ce2f1bcf71.PNG)
+
  
  
  Επιπλέον άλλαξα το main ήρωα και έβαλα άλλον ο οποίος ταιριάζει περισσότερο με το στυλ του παιχνιδιού.
  (πιθανότατα να αλλάξει πάλι μελλοντικά)
  
  
- ![2ndcharacter](https://user-images.githubusercontent.com/117390085/207928350-60f3dc99-4f96-479f-8b5e-33e970275796.PNG)
+![2ndcharacter](https://user-images.githubusercontent.com/117390085/208307695-0abd2258-d357-4d55-9cd7-333eddb99a9c.PNG)
 
  
  
@@ -69,8 +70,8 @@ Aντικατάσταση της Ruby με κατάλληλο για το plot p
  Τα potions αναπληρώνουν 1 πόντο ζωής το καθένα, είναι διασκορπιζμένα στο χάρτη (με μερικά από αυτά να είναι πιο δύσκολα αποκτήσιμα από άλλα) και εξαφανίζονται μετά τη  χρήση. Ο ήρωας τα αγνοεί αν οι πόντοι ζωής του είναι γεμάτοι.
  
   
- 
-![healthpot](https://user-images.githubusercontent.com/117390085/207926673-2ad6a514-42b9-4e5e-9286-0bb66e0c4782.PNG)
+ ![healthpot](https://user-images.githubusercontent.com/117390085/208307706-1ca3bfb2-6795-4426-b9f4-f0783675c5cc.PNG)
+
 
 
 Στη συνέχεια όρισα ως damage zones καρφία στο πάτωμα τα οποία εκτείνονται σε όλη τη πίστα. Στη πίστα επίσης, υπάρχουν και wall mounted καρφιά τα οποία μπορούν να τραυματίσουν τον ήρωα καθώς και sawblades στα οποία θα προσθεθεί κίνηση μελλοντικά.
@@ -111,7 +112,8 @@ Mage rat
 
 Το projectile 
 
-![Uploading projectile.PNG…]()
+![projectile](https://user-images.githubusercontent.com/117390085/208307719-0069f7d9-d391-4f88-b1ce-aadd2b7f4078.PNG)
+
 
 Τέλος, έφτιαξα και οριοθέτησα τη κάμερα (η οποία τώρα ακολουθεί τον ήρωα και δεν βγαίνει εκτός των "πλαϊνών" τοιχών του μπουντρουμιού) χρησιμοποιώντας το cinemachine της unity.
 
