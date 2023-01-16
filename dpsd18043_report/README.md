@@ -135,7 +135,7 @@ Aφαίρεσα τελείως το projectile γιατί θεώρησα ότι 
 Το ΝPC έχει idle animation και εξηγεί δίνει πληροφορίες στο παίκτη σχετικά με το (current) plot.
 
 Το npc έχει πολλαπλά lines of dialogue τα οποία ο παίκτης μπορεί να δει ένα-ένα πατώντας το "next" που υπάρχει στο dialogue box.
-Μπορεί επίσης να κλείσει το dialogue box πατώντας ξανά το "Ε" χωρίς να διαβάσει όλα τα lines.
+Μπορεί επίσης να κλείσει το dialogue box πατώντας ξανά το "Ε" χωρίς να χρειάζεται να διαβάσει όλα τα lines.
 
 ![dialogue](https://user-images.githubusercontent.com/117390085/212657461-d5a021da-3ec3-477e-9300-8c177a940cc1.PNG)
 
