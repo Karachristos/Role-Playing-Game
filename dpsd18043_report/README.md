@@ -166,6 +166,7 @@ Aφαίρεσα τελείως το projectile γιατί θεώρησα ότι 
 
 Τέλος δημιούργησα scenes με buttons για το αρχικό μενού του παιχνιδιού, τα controls, το game over screen και το victory screen.
 Στο μενού, υπάρχει επίσης και ένα μικρό κουμπί που οδηγεί το παίκτη σε ένα bonus χάρτη. (Αυτό το έβαλα μόνο για να γίνει την ολοκλήρωση του παραδοτέου επιλογής πίστας.)
+Υπάρχει και camera transition effect από το menu στο παιχνίδι.
 
 Main menu
 
@@ -186,7 +187,7 @@ Victory screen
 
 # Conclusions
 
-Notes/Μελλοντικές αλλαγές:
+Μελλοντικές αλλαγές/Πράγματα που θα πρόσθετα:
 
 -Διεύρυνση πίστας και plot
 -Αλλαγή Plot ώστε το παιχνίδι να μη τελειώνει όταν πεθαίνει το τέρας.
@@ -198,6 +199,7 @@ Notes/Μελλοντικές αλλαγές:
 -Player dialogue options
 -Door animations
 -Περισσότεροι/Διαφορετικοι εχθροί (διαφορετικά attacks patterns?)
+-Breakable objects
 
 
 
@@ -205,10 +207,16 @@ Notes/Μελλοντικές αλλαγές:
 -Ruby's adventure unity course: https://learn.unity.com/project/ruby-s-2d-rpg 
 
 -Assets που χρησιμοποιήθηκαν: 
-https://game-endeavor.itch.io/mystic-woods (χαρακτήρας) 
+https://elthen.itch.io/pixel-art-dwarf-sprites(χαρακτήρας) 
 
 https://anokolisa.itch.io/crawler-dungeon-prison (χάρτης)
 
 https://elthen.itch.io/2d-pixel-art-ratfolk-mage-sprites (εχθρός)
 
 https://elthen.itch.io/2d-pixel-art-ratfolk-axe-sprites (εχθρός)
+
+https://elthen.itch.io/2d-pixel-art-shardsoul-slayer-sprites (τέρας)
+
+https://elthen.itch.io/2d-pixel-art-archaeologist (NPC)
+
+https://elthen.itch.io/2d-pixel-art-goblin-king-sprites
