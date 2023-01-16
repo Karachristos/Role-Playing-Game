@@ -162,8 +162,24 @@ Aφαίρεσα τελείως το projectile γιατί θεώρησα ότι 
 Επιπρόσθετα εμπλούτισα το παιχνίδι με particles σε μορφή αίματος τα οποία εμφανίζονται κάθε φόρά που ο παίκτης τραυματίζει κάποιον εχθρό.
 Επίσης, υπάρχουν sounds effects για όταν ο παίκτης τραυματίζει έναν εχθρό, όταν παίρνει ένα potion/κλειδί, όταν ένας εχθρός πεθαίνει καθώς και όταν το τέρας τον χτυπάει. Επέλεξα να βάλω και dungeon ambience αντί για μουσική το οποίο ξεκινάει να παίζει όταν ο παίκτης μπαίνει στο παιχνίδι.
 
+Τέλος δημιούργησα scenes με buttons για το αρχικό μενού του παιχνιδιού, τα controls, το game over screen και το victory screen.
+Στο μενού, επίσης υπάρχει και ένα μικρό κουμπί που οδηγεί το παίκτη σε ένα bonus χάρτη. (Αυτό το έβαλα μόνο για να γίνει την ολοκλήρωση του παραδοτέου επιλογής πίστας.)
 
+Main menu
 
+![menu](https://user-images.githubusercontent.com/117390085/212666607-a606cb85-014c-4f96-9761-8684289a2674.PNG)
+
+Controls
+
+![controls](https://user-images.githubusercontent.com/117390085/212666648-19ccc247-368b-4753-aac1-7ef9af8f3803.PNG)
+
+Game Over screen
+
+![gameover](https://user-images.githubusercontent.com/117390085/212666682-6693631d-633e-4adf-a86d-3789b343c7ee.PNG)
+
+Victory screen
+
+![victory](https://user-images.githubusercontent.com/117390085/212666770-a6d049ed-1256-4d96-8b08-d1592af957e8.PNG)
 
 
 # Conclusions
